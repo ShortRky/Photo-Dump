@@ -1,8 +1,8 @@
 const photoData = [
     {
         id: 1,
-        imageUrl: "/assets/2F405742-1B88-4B34-A152-6EE832017313_1_105_c.jpeg",
-        thumbnailUrl: "/assets/thumbnail/7D431DEF-1D8A-4F29-9C35-EB99650CEE62.jpeg",
+        imageUrl: "/assets/PHOTO1.jpeg",
+        thumbnailUrl: "/assets/thumbnail/plush.jpeg",
         title: "New Cover",
         description: "Shit i'm pretty sure i used this as a photo for a Video cover.",
         location: "My Home",
